@@ -4,8 +4,7 @@
 Performed Exploratory Data Analysis on HR dataset to identify factors affecting employee attrition.
 
 ## Tools Used
-Python, Pandas, NumPy, Matplotlib, Seaborn
-
+Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 ## Key Steps
 - Data Cleaning and Preprocessing
 - Handling Missing Values
